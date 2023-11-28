@@ -1,8 +1,5 @@
 package com.kevin.androidtestingdemo
 
-import com.kevin.androidtestingdemo.Process
-import io.mockk.impl.annotations.MockK
-import io.mockk.mockk
 import org.junit.Test
 
 import org.junit.Assert.*
